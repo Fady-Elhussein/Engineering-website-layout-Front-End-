@@ -1,0 +1,165 @@
+
+.bg-semi-transparent{
+    background-color: #00000060;
+}
+.bg-grey{
+    background-color: #9c9c9ca0;
+}
+#header nav a  {
+    color: #fff;
+}
+#header nav a span:first-child{
+    color: #f6c900;
+}
+#header nav a span:nth-child(2){
+    display: block;
+    font-size: 11px;
+    color: #aeb0b1;
+}
+
+#header nav div.container a:hover{
+    background-color: #f6c900;
+}
+#header nav div.container a.navbar-brand:hover{
+    background-color: transparent;
+
+}
+
+#sec-2{
+    background-image:linear-gradient( to top, #3e3e41ba, #000000cc), url("../Images/banner.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#sec-2 .container div:first-child{
+    text-align: center;
+    padding: 90px 0;
+
+}
+#sec-2 div.container div button{
+    background-color: #000000;
+    border:2px solid #f6c900;
+    padding: 10px 20px;
+    margin-right: 5px;
+    color: #f6c900;
+    margin-bottom: 50px;
+
+}
+#sec-2 div.social-div{
+    background-color: #f6c900;
+    position: absolute;
+    top: 30%;
+    right: 0;
+}
+
+
+
+#sec-3 div.container div:first-child{
+    margin-top: 20px;
+    width: 100%;
+}
+#sec-3 div.container div img:first-child{
+    width: 100%;
+}
+#sec-3 div.container div p{
+    color: #aeb0b1;
+    padding-top: 10px;
+}
+#sec-3 div.container div button{
+    background-color: #f6c900;
+    border:2px solid #f6c900;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 20px;
+}
+
+#sec-4{
+    background-image:linear-gradient( to top, #3e3e41ba, #000000cc), url("../Images/bg4.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#sec-4  div.container .card img{
+    width:100%;
+    background-color: #f6c900;
+    border-radius: 100px;
+}
+
+#sec-4  div.container div.card  {
+    border-radius: 60px;
+    background-color:#22222481;
+    margin-bottom: 20px;
+} 
+#sec-4 .card p{
+    padding: 20px;
+    padding-top: 10px;
+    color: #fff;
+}
+
+#sec-5 div.container  button{
+    background-color: #f6c900;
+    border:2px solid #f6c900;
+    padding: 5px 20px;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#sec-6{
+    background-image:linear-gradient( to top, #3e3e41ba, #000000cc), url("../Images/bg2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#sec-6 div.container div ul li a{
+    color: #fff;
+    text-decoration:none
+}
+#sec-6 div.container div ul li a:hover{
+    background-color: #00000060;
+    padding: 10px;
+    
+
+}
+
+#sec-7{
+    background-image: url("../Images/bg3.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+
+#sec-7 .customer-photo img{
+    border-radius: 50px;
+}
+#sec-7 a{
+    color: #000000;
+    text-decoration:none;
+
+}
+#sec-7 a:hover{
+    background-color: #f6c900;
+    padding: 10px;
+}
+
+#sec-8 form input{
+    border-radius: 10px;
+}
+
+#sec-8 form button{
+    border: none;
+    border-radius: 10px;
+    background: #4c4c4c;
+    padding: 8px 20px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+
+
+footer{
+    background-image:linear-gradient( to top, #3e3e41ba, #000000cc), url("../Images/bg4.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
